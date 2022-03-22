@@ -1,4 +1,4 @@
 fun main() {
-    var firstNme="mercy"
+    var firstName="jane"
     println(firstNme)
 }
